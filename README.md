@@ -100,24 +100,23 @@ Publish the website in the LocalHost.
 <body>
   <div class="book-cover">
     <div>
-      <div class="title">Thalapathy Vijay</div>
+      <div class="title">The Psychology of Simplicity</div>
       <div class="line"></div>
-      <div class="subtitle">The Rise, Resilience, and Roar of Vijay
-      </div>
+      <div class="subtitle">Understanding the beauty of less</div>
     </div>
     <div class="image">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Vijay_at_Protest_of_the_Nadigar_Sangam.jpg" length="10%" width="100%">
+        <img src="https://img.freepik.com/free-vector/flat-world-mental-health-day-background_23-2149634438.jpg?t=st=1744720480~exp=1744724080~hmac=f1760139b6a1644521a6843c7039f2b45bdc688d25f4f3a479e1d59dcfad5515&w=1380" length="10%" width="100%">
     </div>
-    <div class="author">By Shubhavi M</div>
+    <div class="author">By Morgan Simplar</div>
   </div>
 </body>
 </html>
+
 ```
 
 
 ## OUTPUT:
-
-![Screenshot 2025-05-08 082249](https://github.com/user-attachments/assets/cb40f23c-9674-4c80-ac41-f15787a227f1)
+![Screenshot 2025-05-08 083255](https://github.com/user-attachments/assets/2111f4e6-a9f6-4d57-9971-d202f51b5bd0)
 
 
 
