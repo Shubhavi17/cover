@@ -108,7 +108,7 @@ Publish the website in the LocalHost.
     <div class="image">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Vijay_at_Protest_of_the_Nadigar_Sangam.jpg" length="10%" width="100%">
     </div>
-    <div class="author">By Shubhavu M</div>
+    <div class="author">By Shubhavi M</div>
   </div>
 </body>
 </html>
